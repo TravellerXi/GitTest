@@ -1,4 +1,1 @@
-This is testgit from Traveller 
-
-Traveller:
-whoami
+Delte everything and drop the history of README.md
